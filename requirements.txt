@@ -6,7 +6,7 @@ msgpack==0.5.6
 nltk==3.2.5
 numpy==1.14.3
 protobuf==3.5.2.post1
-requests==2.18.4
+requests==2.20.0
 scipy==1.1.0
 six==1.11.0
 stanford-corenlp==3.8.0
